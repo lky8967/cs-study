@@ -1,4 +1,4 @@
-# cs-study-for-interview
+# cs-study
 
 ### :triangular_flag_on_post: About
 - 개발자가 알아야할 필수 CS에 대해 공부하고 기록하는 스터디 저장소입니다.
